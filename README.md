@@ -24,7 +24,7 @@
 
 ### Abstract
 
-- 👨‍💻 I'm currently working full-time at **Mobiauto**.
+- 👨‍💻 I'm currently working full-time at **UOL**.
 - 🌱 Learning more about and studying: **Cybersecurity and Artificial intelligence**.
 - 💙 Interests: bugbounty and technology.
 
